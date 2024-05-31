@@ -1,2 +1,2 @@
 # microservice-with-redis
-A microservice backend using fast API and redis as database
+FastAPI microservice backend using redis database and redis streams, integrating asynchronous payment status for refunded, completed and pending
